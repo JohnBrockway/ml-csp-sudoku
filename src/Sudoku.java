@@ -5,7 +5,9 @@ import java.io.IOException;
 public class Sudoku {
 
 	/**
-	 * @param args Contains the file of the problem instance in a specified form (each line of the puzzle on a new line, numbers separated by spaces, blank spaces denoted by 0). Also contains the solver type to use; 'simple' or 'forward'. Optionally, has the number of assignments allowed for the retrieval of the solution.
+	 * @param args Contains the file of the problem instance in a specified form (each line of the puzzle on a new line, numbers separated by spaces, blank spaces denoted by 0). 
+	 * Also contains the solver type to use; 'simple' or 'forward'. 
+	 * Optionally, has the number of assignments allowed for the retrieval of the solution.
 	 * @throws IOException
 	 */
 	public static void main(String[] args) {
